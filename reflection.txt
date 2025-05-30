@@ -1,0 +1,9 @@
+The Mood Music Recommender project was inspired by the desire to explore Docker’s microservices architecture while creating a practical and interactive web application. The goal was to build a scalable system where frontend and backend components are loosely coupled yet communicate seamlessly.
+
+The main challenge was managing multiple containers without Docker Compose, which required manual network setup and container orchestration. Overcoming this helped deepen my understanding of Docker networking and volume management. Implementing health checks in Dockerfiles improved container reliability, showcasing the robustness Docker adds to microservice deployments.
+
+Docker’s multi-stage builds optimized image sizes and speed, while volumes ensured data persistence for MongoDB. The exercise enhanced my skills in containerization and demonstrated how Docker simplifies complex distributed applications.
+
+For production, this app could be extended by adding automated CI/CD pipelines, implementing load balancing with multiple backend instances, and adding authentication features. Monitoring and logging could be enhanced using tools like Prometheus or ELK stack for better observability.
+
+Overall, this assignment successfully combined creativity, technical learning, and practical Docker usage.
