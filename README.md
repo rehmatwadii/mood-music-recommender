@@ -66,13 +66,14 @@ To demonstrate Docker's capabilities, a **health check** was implemented in the 
 - [https://hub.docker.com/repository/docker/rehmatwadi/mood-frontend](https://hub.docker.com/repository/docker/rehmatwadi/mood-frontend)
 - [https://hub.docker.com/repository/docker/rehmatwadi/mood-backend](https://hub.docker.com/repository/docker/rehmatwadi/mood-backend)
 
-## Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+# Mood Music Recommender Screenshots
+
+![Screenshot 1](./screenshots/image-1.png)
+![Screenshot 2](./screenshots/image-2.png)
+![Screenshot 3](./screenshots/image-3.png)
+![Screenshot 4](./screenshots/image-4.png)
+![Screenshot 5](./screenshots/image-5.png)
+![Screenshot 6](./screenshots/image-6.png)
+![Screenshot 7](./screenshots/image-7.png)
+![Screenshot 8](./screenshots/image-8.png)
+![Screenshot 9](./screenshots/image.png)
